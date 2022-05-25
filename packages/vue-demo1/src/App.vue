@@ -8,7 +8,9 @@
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import HelloWorld from './components/HelloWorld.vue'
 // import '@common/common.js'
-import '../../../common.js'
+// import '../../../common.js'
+import {con} from '@common_store/utils'
+con('hello 这是我的公共工具库')
 </script>
 
 <style>
