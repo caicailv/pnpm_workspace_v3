@@ -5,8 +5,10 @@
   "scripts": {
     "dev:vv1": "pnpm run -C packages/vue-demo1 dev",
     "dev:v1": "vite packages/vue-demo1 ",
-    "build:v1": "pnpm run -C packages/vue-demo1 build",
 
+    "dev:vt":"pnpm run -C vite packages/vue-demo1",
+
+    "build:v1": "pnpm run -C packages/vue-demo1 build",
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
