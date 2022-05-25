@@ -1,14 +1,2 @@
-pnpm_workspace+vue3
-开源开源开源开源开源开源
-pnpm_workspace+vue3
-开源开源开源开源开源开源
-pnpm_workspace+vue3
-开源开源开源开源开源开源
-pnpm_workspace+vue3
-开源开源开源开源开源开源
-pnpm_workspace+vue3
-开源开源开源开源开源开源
-pnpm_workspace+vue3
-开源开源开源开源开源开源
-pnpm_workspace+vue3
-开源开源开源开源开源开源
+铁丝的弹性极限约为110-220MPa[2]。根据国标GBT343-94，普通镀锌铁丝的抗拉强度为295-540MPa。一种弹簧钢的国标如下表：
+其实卷起来的铁丝也是有弹性的，但铁丝的弹性极限太低。
